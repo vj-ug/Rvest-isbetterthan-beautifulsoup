@@ -7,4 +7,4 @@ and display them alongside concert information pages using a Chrome Extension!
 
 - Note Craiglist does not allow scraping for commerical purposes. This is just an educational project.
 
-Craiglist did not want me to make the project public. However please email/message me and I'll be happy to share the code with you.
+The R script is private as Craiglist policy does not allow scraping. However please email/message me and I'll be happy to share the code with you.
